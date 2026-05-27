@@ -113,7 +113,7 @@ http://localhost:8080
 
 This app is deployed on **Render**.
 
-Live URL: `https://your-app-name.onrender.com`
+Live URL: (https://wanderlust-6oa9.onrender.com)
 
 ---
 
